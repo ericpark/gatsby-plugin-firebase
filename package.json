@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-plugin-firebase",
+  "version": "0.9.0",
+  "license": "MIT",
+  "description": "Gatsby plugin that provides drop-in support for Firebase forked from alex@alexluong.com",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Eric Park <Eric Park>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericpark/gatsby-plugin-firebase.git",
+    "directory": "/"
+  },
+  "homepage": "https://github.com/ericpark/gatsby-plugin-firebase#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "firebase"
+  ],
+  "peerDependencies": {
+    "firebase": ">=10.7.x",
+    "gatsby": ">=2.x",
+    "react": ">=16.14.x",
+    "react-dom": ">=16.14.x"
+  }
+}
